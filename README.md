@@ -1,7 +1,10 @@
 <<<<<<< HEAD
 # robo-friends
+check it's running -> https://italoemm.github.io/robofriends/
 
 Simple Web application developed using React.js.
+
+
 
 It was made following the UDEMY course "The Complete Web Developer in 2018: Zero to Mastery" by Andrei Neagoie and <b>deployed in my way</b>.
 
